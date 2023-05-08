@@ -1,0 +1,11 @@
+{
+    "name": "Discord Nitro Generator",
+    "version": "1.0.0",
+    "author": "Drimgo",
+    "company": "Drimgo Studio",
+    "site": "https://drimgostudio.online",
+    "loadDelay": 500,
+    "iterDelay": 3000,
+    "attemps": 1000000
+
+}
