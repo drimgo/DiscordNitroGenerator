@@ -1,6 +1,8 @@
 # DiscordNitroGenerator
 Бесплатный способ получить Discord Nitro
 
-# Запуск
+# Требования
 (!) У Вас должен быть установлен NodeJS
-Команда запуска: npm run start
+
+# Запуск
+npm run start
